@@ -15,7 +15,7 @@ It **does not work with Stores that dynamically inject content using JavaScript*
 
 It allows users to register, log in, and create and modify their alerts.
 
-Technology stack: MongoDB, Python (Flask & Jinja2), HTML/CSS/Bootstrap, Mailgun.
+echnology stack: MongoDB, Python (Flask & Jinja2), HTML/CSS/Bootstrap, Mailgun.
 
 ## Installation
 
